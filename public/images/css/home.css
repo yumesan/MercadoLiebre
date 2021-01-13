@@ -1,0 +1,26 @@
+/* HEADER CSS */
+
+.headerML {
+font-size: 12px;
+    background-color: #EAC926;
+    font-family: 'Roboto';    
+}
+
+
+
+/* BODY CSS */
+
+
+.lastViewH2{
+    font-size: 24px;
+}
+
+
+
+.price{
+    font-size: 18px;
+}
+
+.discount-info{
+    font-size: 16px;
+}
